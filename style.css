@@ -1,0 +1,149 @@
+.highlight-word-color {
+    color: #20DC49;
+}
+
+@font-face {
+    font-family: "Poppins";
+    src: url("fonts/Poppins-Regular.ttf");
+}
+
+body {
+    font-family: "Poppins";
+}
+
+.WelcomeBack {
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 44px;
+}
+
+.ptag1 {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 29.16px;
+}
+
+.button1 {
+    width: 126px;
+    height: 44px;
+    border: 1px solid #20DC49;
+    border-radius: 5px;
+    background-image: url("google\ 1.png");
+    background-repeat: no-repeat;
+    background-position: 17px center;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 44px;
+    text-align: center;
+}
+
+.button2 {
+    width: 126px;
+    height: 44px;
+    border: 1px solid #DEDEDE;
+    border-radius: 5px;
+    background-image: url("facebook\ 1.png");
+    background-repeat: no-repeat;
+    background-position: 10px center;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 44px;
+    text-align: center;
+}
+
+.ptag2 {
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 14.5px;
+    margin-top: 28px;
+}
+
+.button4 {
+    width: 400px;
+    height: 70px;
+    border-radius: 10px;
+    border: 1px solid #D9D9D9;
+    outline: none;
+    padding-left: 20px;
+}
+
+.button4::placeholder {
+    padding-left: 15px;
+}
+
+.button3 {
+    width: 400px;
+    height: 70px;
+    border-radius: 10px;
+    border: 1px solid #D9D9D9;
+    outline: none;
+    background-image: url("blind\ 1.png");
+    background-repeat: no-repeat;
+    background-position: center right 20px;
+    padding-left: 20px;
+}
+
+.button3::placeholder {
+    padding-left: 15px;
+}
+
+.text-danger {
+   margin-left: 40px;
+}
+
+.button5 {
+    width: 400px;
+    height: 55px;
+    border-radius: 10px;
+    border: 1px solid #5A5A5A;
+    outline: none;
+    display: block;
+    margin: auto;
+    margin-top: 25px;
+}
+
+.col-lg-5 {
+    background-image: url("linkedin-sales-solutions-B_DJO2-K22M-unsplash\ 1.png");
+    background-repeat: no-repeat;
+    height: 900px;
+}
+
+.card {
+    width: 497px;
+    height: 270px;
+    border-radius: 10px ;
+    background-color:#FFF2F2 ;
+    backdrop-filter: blur(100px);
+    display: block;
+    margin: auto;
+    margin-top: 600px;
+}
+
+.button6 {
+    width: 238px;
+    height: 45px;
+    border-radius: 10px ;
+    opacity: 0px;
+    background-color: #20DC49;
+    border: 0;
+    margin: 30px;
+    background-image: url("thumbs-up_1f44d\ 1.png");
+    background-repeat: no-repeat;
+    background-position:6px center;
+    padding-left: 30px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17.11px;
+}
+
+.ptag3 {
+    margin-left: 32px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32.97px;
+}
+
+.col-6 {
+    display: block;
+    margin: auto;
+}
